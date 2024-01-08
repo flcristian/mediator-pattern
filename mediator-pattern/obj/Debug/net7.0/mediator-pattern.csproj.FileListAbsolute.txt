@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\bin\Debug\net7.0\mediator-pattern.exe
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\bin\Debug\net7.0\mediator-pattern.deps.json
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\bin\Debug\net7.0\mediator-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\bin\Debug\net7.0\mediator-pattern.dll
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\bin\Debug\net7.0\mediator-pattern.pdb
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.dll
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\refint\mediator-pattern.dll
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.pdb
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\mediator-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\mediator-pattern\mediator-pattern\obj\Debug\net7.0\ref\mediator-pattern.dll
